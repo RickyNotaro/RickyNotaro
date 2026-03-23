@@ -15,7 +15,6 @@ Designing and operating high-throughput streaming pipelines using **Confluent Ka
 - **Apache Flink** — diving into stateful stream processing and real-time analytics
 - Snowflake architecture & data warehousing patterns
 - AI-assisted development workflows — actively experimenting with tools like **Claude Code** to rethink how software gets built 🤖
-- Quantum computing (IEEE Quantum Week 2024 volunteer, Université de Sherbrooke micro-stage)
 
 ## 🛠️ Tech I work with
 
