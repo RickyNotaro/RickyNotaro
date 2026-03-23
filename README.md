@@ -1,29 +1,73 @@
-## Hi there 👋
+# Hey, I'm Ricky 👋
 
+**Chief Data Engineer — Financial Crime** @ [National Bank of Canada](https://www.nbc.ca) 🏦
+Building real-time pipelines to detect and prevent financial crime at scale.
+Montreal, QC 🍁 · Bilingual FR/EN
 
-Hey, I'm Ricky a data engineer working in Financial Crime at National Bank of Canada 🏦, where I build real-time pipelines to help detect and prevent financial crime. My day-to-day revolves around Confluent Kafka, Apache Flink, and Microsoft SQL Server, and I'm currently diving deeper into Snowflake for modern cloud analytics.
+---
 
-I've been writing code professionally since 2017, bouncing across the stack — from PHP & Ruby on Rails at agencies, to Java Spring on core banking systems, to AWS-heavy backend work in IT Procurement. These days I'm firmly in data engineering territory and loving it.
+## 🔭 What I'm working on
 
-Before big-bank life, I co-founded 3D Universalis 🖨️ — a 3D printing startup incubated at HEC Montréal and backed by Futurpreneur. I've built serverless rendering pipelines on AWS, ran bilingual ad campaigns, and connected lead forms to Lambda + SNS to feed our CRM. Great ride.
+Designing and operating high-throughput streaming pipelines using **Confluent Kafka** and **Microsoft SQL Server** in a Financial Crime context. Currently exploring **Snowflake** for cloud-scale analytics.
 
-I hold AWS certifications (Developer – Associate & Cloud Practitioner), studied Software Engineering at ÉTS and Cyberinvestigation at Polytechnique Montréal, and dipped into Quantum Computing at Université de Sherbrooke. I also volunteered at IEEE Quantum Week 2024 (QCE24) in Montreal.
+## 🌱 What I'm learning
 
-Right now I'm experimenting heavily with AI-assisted development workflows — using tools like Claude Code to move faster and think differently about how software gets built. 🤖
+- **Apache Flink** — diving into stateful stream processing and real-time analytics
+- Snowflake architecture & data warehousing patterns
+- AI-assisted development workflows — actively experimenting with tools like **Claude Code** to rethink how software gets built 🤖
+- Quantum computing (IEEE Quantum Week 2024 volunteer, Université de Sherbrooke micro-stage)
 
-Always up for talking data pipelines, event-driven architecture, fintech, or AI tooling.
-Bilingual 🇫🇷🇬🇧 · Based in Montreal, QC 🍁
-<!--
-**RickyNotaro/RickyNotaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech I work with
 
-Here are some ideas to get you started:
+**Data & Streaming**
+![Kafka](https://img.shields.io/badge/Confluent_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning**
+![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+**Certifications**
+![AWS Dev](https://img.shields.io/badge/AWS_Certified_Developer-Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 📖 My story
+
+I've been writing code professionally since 2017 — starting out at agencies with PHP, Ruby on Rails, and Vue.js, then moving into backend Java/Spring work on the core transactional banking terminal at National Bank, then AWS + SAP in IT Procurement, and now deep in data engineering for Financial Crime.
+
+Before big-bank life, I co-founded **🖨️ 3D Universalis** — a 3D printing startup incubated at **HEC Montréal** and backed by **Futurpreneur Canada**. We built 3D rendering pipelines on AWS, ran bilingual (FR/EN) ad campaigns on Google and Facebook, and wired up lead capture forms to **AWS Lambda + Amazon SNS** to feed our CRM. This repo actually preserves those [marketing landing pages](https://3d-universalis.github.io/3du-landings-pages/).
+
+---
+
+## 💬 Ask me about
+
+- Event-driven architecture & real-time streaming (Kafka, Flink)
+- AWS serverless patterns
+- Fintech & Financial Crime tech
+- AI-assisted development workflows
+- Starting a tech startup in Montreal
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricky_Notaro-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickynotaro)
+
+---
+
+## ⚡ Fun facts
+
+- 10-year technical volunteer at **LAN ETS** — Canada's largest LAN party (5000+ devices on the network)
+- Volunteer at **IEEE Quantum Week 2024** (QCE24) at Palais des congrès de Montréal
+- Former QA tester on **Middle-earth: Shadow of War** @ Warner Bros. Games 🎮
