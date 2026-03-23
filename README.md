@@ -61,7 +61,7 @@ Before big-bank life, I co-founded **🖨️ 3D Universalis** — a 3D printing 
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricky_Notaro-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickynotaro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricky_Notaro-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-notaro)
 
 ---
 
