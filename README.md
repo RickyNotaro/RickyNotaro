@@ -9,6 +9,7 @@ Montreal, QC 🍁 · Bilingual FR/EN
 ## 🔭 What I'm working on
 
 Designing and operating high-throughput streaming pipelines using **Confluent Kafka** and **Microsoft SQL Server** in a Financial Crime context. Currently exploring **Snowflake** for cloud-scale analytics.
+I'm currently also working on [LePrixDuGaz.ca](https://leprixdugaz.ca/), a Quebec gaz tracking and analytic platform and an android app related to [Communauto](https://communauto.com/).
 
 ## 🌱 What I'm learning
 
